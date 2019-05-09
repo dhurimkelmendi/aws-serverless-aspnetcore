@@ -1,0 +1,14 @@
+/Users/dhurimkelmendi/workspace/serverless-web-api/src/serverless-web-api/bin/Debug/netcoreapp2.1/serverless-web-api.deps.json
+/Users/dhurimkelmendi/workspace/serverless-web-api/src/serverless-web-api/bin/Debug/netcoreapp2.1/serverless-web-api.runtimeconfig.json
+/Users/dhurimkelmendi/workspace/serverless-web-api/src/serverless-web-api/bin/Debug/netcoreapp2.1/serverless-web-api.runtimeconfig.dev.json
+/Users/dhurimkelmendi/workspace/serverless-web-api/src/serverless-web-api/bin/Debug/netcoreapp2.1/serverless-web-api.dll
+/Users/dhurimkelmendi/workspace/serverless-web-api/src/serverless-web-api/bin/Debug/netcoreapp2.1/serverless-web-api.pdb
+/Users/dhurimkelmendi/workspace/serverless-web-api/src/serverless-web-api/obj/Debug/netcoreapp2.1/serverless-web-api.csprojAssemblyReference.cache
+/Users/dhurimkelmendi/workspace/serverless-web-api/src/serverless-web-api/obj/Debug/netcoreapp2.1/serverless-web-api.csproj.CoreCompileInputs.cache
+/Users/dhurimkelmendi/workspace/serverless-web-api/src/serverless-web-api/obj/Debug/netcoreapp2.1/serverless-web-api.RazorAssemblyInfo.cache
+/Users/dhurimkelmendi/workspace/serverless-web-api/src/serverless-web-api/obj/Debug/netcoreapp2.1/serverless-web-api.RazorAssemblyInfo.cs
+/Users/dhurimkelmendi/workspace/serverless-web-api/src/serverless-web-api/obj/Debug/netcoreapp2.1/serverless-web-api.AssemblyInfoInputs.cache
+/Users/dhurimkelmendi/workspace/serverless-web-api/src/serverless-web-api/obj/Debug/netcoreapp2.1/serverless-web-api.AssemblyInfo.cs
+/Users/dhurimkelmendi/workspace/serverless-web-api/src/serverless-web-api/obj/Debug/netcoreapp2.1/serverless-web-api.RazorTargetAssemblyInfo.cache
+/Users/dhurimkelmendi/workspace/serverless-web-api/src/serverless-web-api/obj/Debug/netcoreapp2.1/serverless-web-api.dll
+/Users/dhurimkelmendi/workspace/serverless-web-api/src/serverless-web-api/obj/Debug/netcoreapp2.1/serverless-web-api.pdb
